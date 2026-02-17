@@ -28,15 +28,7 @@ export default function Footer() {
                 <li>
                   <h4>SHADRACK M...</h4>
                 </li>
-                <li className="footer-hide" >
-                  <p>FEATURES</p>
-                </li>
-                <li className="footer-hide" >
-                  <p>PRICING</p>
-                </li>
-                <li className="footer-hide" >
-                  <p>CONTACT</p>
-                </li>
+                <li><a href=" https://evertonvsmanunited.com">Everton vs Man United Live Stream</a></li>
               </ul>
             </div>
             <div className="footer-down-right">
